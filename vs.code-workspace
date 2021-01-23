@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "fend-webpack-content",
+			"path": "fend/projects/evaluate-news-nlp/fend-webpack-content"
+		},
+		{
+			"name": "http-cookies-safari",
+			"path": "fend/projects/evaluate-news-nlp/http-cookies-safari"
+		}
+	]
+}
